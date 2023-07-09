@@ -1,0 +1,146 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  background: #F2F1F1;
+  margin: 0;
+  font-family: sans-serif;
+  padding-bottom:10px;
+  color: white;
+  background-image: url("ruslan-ruslan-AhAMJgq5QPM-unsplash.jpg");
+   background-size: cover;
+  
+}
+
+header {
+  width: 100%;
+  background-color: #DA3C0B;
+  height: 70px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  
+  top: 0;
+  font-size: 16px;
+  color:black;
+}
+
+#logo {
+  width: 75px;
+  padding: 0.4rem;
+}
+
+h3 {
+  text-align: center;
+  font-size: min(5vw,1.2em);
+  text-decoration: underline;
+  }
+
+#timeline {
+  text-decoration: none;
+}
+
+nav {
+  width:50%;
+  max-width: 300px;
+  height: 50px;
+}
+
+nav > ul {
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  align-items: center;
+  padding-inline-start: 0;
+  margin-block: 0;
+  height: 100%;
+
+nav > ul > li {
+  color: #dfdfe2;
+  margin: 0 0.2rem;
+  padding: 0.2rem;
+  display: block;
+}
+
+
+}
+
+li > a {
+  color: inherit;
+  text-decoration: none;
+}
+
+
+main {
+  padding-top: 80px;
+}
+
+
+section {
+  width: 80%;
+  margin: 0 auto;
+  max-width: 600px;
+  font-size: 20px;
+  text-align: center; 
+}
+
+
+#image img {
+  max-width: 500px; 
+  height: auto; 
+  margin: 0 25%;
+  align-items: center;
+  justify-content: center;
+}
+
+
+
+#quote {
+  font-style: italic;
+  font-size: 15px;
+}
+
+ul {
+  list-style-type: none;
+}
+
+h1 {
+  font-family: kablammo;
+}
+
+main {
+  padding-top:120px;
+  border:1px solid black;
+  
+}
+
+#intro {
+  background-color:rgba(204, 204, 204, 0.5);
+  
+}
+
+#early-life{
+  background-color:rgba(204, 204, 204, 0.5);
+  
+}
+
+#professional_career{
+  background-color:rgba(204, 204, 204, 0.5);
+}
+
+#post-retire {
+   background-color:rgba(204, 204, 204, 0.5);
+}
+
+#video {
+  
+}
+
+#image {
+  
+  
+  
+}
+
